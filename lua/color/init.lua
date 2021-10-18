@@ -1,1 +1,2 @@
-require("color/ayu")
+--require("color/ayu")
+require("color/wal")

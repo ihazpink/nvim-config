@@ -34,6 +34,7 @@ return require('packer').startup(function()
 
 	-- Themes
 	use 'ayu-theme/ayu-vim'
+	use 'dylanaraps/wal.vim'
 
 	-- failsafe dependencies
 	-- Sometimes plugins that have shared dependencies can fail
