@@ -12,7 +12,7 @@ vim.opt.joinspaces = false
 
 
 -- Clipboard
-vim.opt.clipboard:prepend{"unnamedplus"}
+vim.opt.clipboard = "unnamedplus"
 
 -- Number column
 vim.opt.number = true
