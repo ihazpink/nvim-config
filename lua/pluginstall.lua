@@ -36,6 +36,7 @@ return require('packer').startup(function()
 	-- Themes
 	use 'ayu-theme/ayu-vim'
 	use 'dylanaraps/wal.vim'
+	use 'Mofiqul/dracula.nvim'
 
 	-- failsafe dependencies
 	-- Sometimes plugins that have shared dependencies can fail
