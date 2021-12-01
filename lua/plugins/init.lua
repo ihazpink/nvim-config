@@ -11,6 +11,7 @@ require('plugins/lsp')
 -- User utils
 require('plugins/neoformat')
 require("plugins/autopairs")
+require("plugins/suda")
 --
 
 -- UI

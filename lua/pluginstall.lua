@@ -26,6 +26,7 @@ return require('packer').startup(function()
 	use {'nvim-telescope/telescope.nvim', requires='nvim-lua/plenary.nvim'}
 	use 'windwp/nvim-autopairs'
 	use 'glepnir/dashboard-nvim'
+	use 'lambdalisue/suda.vim'
 
 
 	-- improved syntax
